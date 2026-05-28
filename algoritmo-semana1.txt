@@ -1,0 +1,33 @@
+
+
+
+¿Cómo compartir información confiable en internet?
+elegir un navegador 
+dar click en la barra del navegador 
+escribir en la barra del navegador google.com
+buscar información del tema en el navegador
+darle clikc a una pagina 
+ decisión 
+   la información esta verificada? 
+      si 
+          compartir 
+      no 
+          se puede verificar la fuente 
+             si 
+                 compartir 
+             no 
+                 se puede comparar con otra fuente
+                    si 
+                        compartir 
+                    no
+                        evaluar si es confiable
+                           si 
+                               Compartir 
+                           no 
+                               no compartir  
+
+
+
+                        
+
+           
